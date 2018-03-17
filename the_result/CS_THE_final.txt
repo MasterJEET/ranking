@@ -1,0 +1,237 @@
+753.600000 _#_ California Institute of Technology
+753.400000 _#_ University of Oxford
+747.200000 _#_ Stanford University
+743.200000 _#_ University of Cambridge
+739.600000 _#_ Massachusetts Institute of Technology
+738.800000 _#_ Harvard University
+724.600000 _#_ Princeton University
+711.600000 _#_ Imperial College London
+705.000000 _#_ University of Chicago
+701.400000 _#_ Yale University
+699.800000 _#_ University of California, Berkeley
+699.800000 _#_ ETH Zurich – Swiss Federal Institute of Technology Zurich
+687.200000 _#_ University of California, Los Angeles
+686.000000 _#_ Johns Hopkins University
+685.200000 _#_ Columbia University
+682.000000 _#_ University of Pennsylvania
+664.800000 _#_ Duke University
+664.400000 _#_ Cornell University
+660.000000 _#_ University of Michigan
+658.000000 _#_ University of Toronto
+651.400000 _#_ Northwestern University
+640.600000 _#_ Carnegie Mellon University
+634.000000 _#_ National University of Singapore
+618.200000 _#_ University of Edinburgh
+616.800000 _#_ University of Washington
+606.000000 _#_ New York University
+604.400000 _#_ LMU Munich
+600.800000 _#_ University of Melbourne
+598.400000 _#_ University of British Columbia
+598.200000 _#_ King’s College London
+598.200000 _#_ École Polytechnique Fédérale de Lausanne
+596.400000 _#_ Georgia Institute of Technology
+595.400000 _#_ University of Illinois at Urbana-Champaign
+587.200000 _#_ Peking University
+587.000000 _#_ University of Tokyo
+585.400000 _#_ University of California, San Diego
+580.600000 _#_ Tsinghua University
+577.000000 _#_ McGill University
+574.600000 _#_ University of Wisconsin-Madison
+573.200000 _#_ University of Hong Kong
+569.600000 _#_ University of Texas at Austin
+568.200000 _#_ KU Leuven
+566.800000 _#_ University of California, Santa Barbara
+558.600000 _#_ Heidelberg University
+557.800000 _#_ Australian National University
+551.400000 _#_ Hong Kong University of Science and Technology
+549.800000 _#_ Brown University
+549.600000 _#_ Washington University in St Louis
+549.200000 _#_ University of California, Davis
+543.600000 _#_ University of Manchester
+542.200000 _#_ University of Minnesota
+541.800000 _#_ Nanyang Technological University, Singapore
+541.200000 _#_ University of North Carolina at Chapel Hill
+538.200000 _#_ Technical University of Munich
+531.600000 _#_ University of Sydney
+528.800000 _#_ Humboldt University of Berlin
+524.000000 _#_ Boston University
+523.000000 _#_ University of Amsterdam
+520.600000 _#_ Delft University of Technology
+515.800000 _#_ University of Southern California
+512.600000 _#_ Leiden University
+509.600000 _#_ Pennsylvania State University
+508.800000 _#_ Seoul National University
+504.800000 _#_ University of Bristol
+504.600000 _#_ Utrecht University
+500.000000 _#_ Ohio State University
+497.600000 _#_ Kyoto University
+493.800000 _#_ Monash University
+493.200000 _#_ Free University of Berlin
+487.400000 _#_ Purdue University
+483.800000 _#_ Durham University
+483.600000 _#_ University of Glasgow
+483.200000 _#_ Rice University
+481.000000 _#_ University of Groningen
+480.600000 _#_ University of Pittsburgh
+480.400000 _#_ University of New South Wales
+479.400000 _#_ Korea Advanced Institute of Science and Technology (KAIST)
+479.200000 _#_ University of Maryland, College Park
+478.200000 _#_ Uppsala University
+478.000000 _#_ Chinese University of Hong Kong
+477.600000 _#_ University of Warwick
+477.400000 _#_ University of Helsinki
+476.000000 _#_ Michigan State University
+475.800000 _#_ Emory University
+475.600000 _#_ École Polytechnique
+475.000000 _#_ University of Basel
+474.000000 _#_ University of Göttingen
+472.400000 _#_ McMaster University
+470.000000 _#_ University of California, Irvine
+469.800000 _#_ Pohang University of Science and Technology
+469.200000 _#_ Vanderbilt University
+465.600000 _#_ University of Freiburg
+465.400000 _#_ RWTH Aachen University
+463.600000 _#_ Dartmouth College
+462.200000 _#_ Ghent University
+461.000000 _#_ University of Sheffield
+460.000000 _#_ University of Colorado Boulder
+459.400000 _#_ University of Montreal
+459.000000 _#_ University of St Andrews
+459.000000 _#_ Queen Mary University of London
+457.200000 _#_ University of Zurich
+455.200000 _#_ University of Copenhagen
+453.800000 _#_ University of Bern
+451.800000 _#_ University of Notre Dame
+450.600000 _#_ University of Southampton
+450.600000 _#_ University of Alberta
+450.000000 _#_ Trinity College Dublin
+449.800000 _#_ University of Exeter
+448.800000 _#_ Georgetown University
+448.200000 _#_ University of Bonn
+447.800000 _#_ University of Western Australia
+447.600000 _#_ University of York
+446.800000 _#_ University of Geneva
+446.800000 _#_ Radboud University Nijmegen
+446.400000 _#_ Tufts University
+445.400000 _#_ University of Virginia
+445.400000 _#_ Stockholm University
+443.600000 _#_ University of Florida
+443.200000 _#_ Case Western Reserve University
+441.600000 _#_ University of Birmingham
+439.800000 _#_ Lancaster University
+439.200000 _#_ University of Leeds
+438.600000 _#_ University of Sussex
+437.400000 _#_ Sungkyunkwan University (SKKU)
+436.800000 _#_ University of Cape Town
+436.000000 _#_ University of California, Santa Cruz
+435.200000 _#_ University of Arizona
+434.000000 _#_ Rutgers, the State University of New Jersey
+432.800000 _#_ University of Massachusetts
+432.000000 _#_ Karlsruhe Institute of Technology
+430.600000 _#_ University of Rochester
+429.400000 _#_ University of Adelaide
+427.200000 _#_ University of Nottingham
+427.000000 _#_ Royal Holloway, University of London
+426.400000 _#_ KTH Royal Institute of Technology
+426.200000 _#_ Vrije Universiteit Amsterdam
+425.400000 _#_ TU Dresden
+423.800000 _#_ Technical University of Denmark
+423.800000 _#_ Arizona State University
+421.019000 _#_ City University of Hong Kong
+420.600000 _#_ Eindhoven University of Technology
+419.000000 _#_ University of Liverpool
+418.000000 _#_ Pompeu Fabra University
+417.000000 _#_ Texas A&amp;M University
+412.600000 _#_ University of California, Riverside
+410.388400 _#_ Ulm University
+410.000000 _#_ University of East Anglia
+409.600000 _#_ University of Leicester
+409.400000 _#_ University of Miami
+408.800000 _#_ University of Auckland
+406.200000 _#_ National Taiwan University
+405.800000 _#_ University of Aberdeen
+403.400000 _#_ Lomonosov Moscow State University
+402.015600 _#_ Cardiff University
+399.917800 _#_ Brandeis University
+398.454000 _#_ Newcastle University
+395.851400 _#_ University of Antwerp
+385.800000 _#_ École Normale Supérieure
+373.432200 _#_ Indiana University
+368.168200 _#_ University of Münster
+368.110700 _#_ University of Twente
+367.313600 _#_ University of Erlangen-Nuremberg
+363.460500 _#_ Fudan University
+353.962300 _#_ University of Würzburg
+353.839700 _#_ University of Dundee
+351.766100 _#_ University of Gothenburg
+351.400000 _#_ University of Mannheim
+347.994100 _#_ Northeastern University
+344.916800 _#_ Hebrew University of Jerusalem
+342.421000 _#_ Hong Kong Polytechnic University
+341.456300 _#_ University of Bergen
+340.402700 _#_ University of Calgary
+337.600000 _#_ University College London
+337.600000 _#_ UCL
+323.600000 _#_ University of Cologne
+317.525300 _#_ University of Science and Technology of China
+314.000000 _#_ Scuola Superiore Sant’Anna
+310.800000 _#_ University of Luxembourg
+299.931300 _#_ École Normale Supérieure de Lyon
+298.266300 _#_ University of Reading
+298.192800 _#_ University of Waterloo
+297.039800 _#_ University of Utah
+296.573100 _#_ University of Konstanz
+290.319700 _#_ Technical University of Berlin
+283.539500 _#_ Aalto University
+282.190000 _#_ Aalborg University
+276.899700 _#_ University at Buffalo
+276.651700 _#_ University of Bologna
+262.400000 _#_ University of Queensland
+252.970200 _#_ Boston College
+242.407400 _#_ University College Dublin
+240.741800 _#_ Tokyo Institute of Technology
+239.360400 _#_ Tel Aviv University
+238.302100 _#_ Nanjing University
+237.816400 _#_ University of Illinois at Chicago
+236.876800 _#_ Queen’s University Belfast
+236.191300 _#_ University of Iowa
+235.357200 _#_ Colorado School of Mines
+234.500000 _#_ Lund University
+234.411300 _#_ University of São Paulo
+232.699200 _#_ University of Delaware
+232.690700 _#_ University of Ottawa
+232.495200 _#_ Stony Brook University
+232.276400 _#_ George Washington University
+230.716500 _#_ University of Trento
+230.478400 _#_ Korea University
+228.800000 _#_ Scuola Normale Superiore di Pisa
+227.912800 _#_ Birkbeck, University of London
+227.300000 _#_ Pierre and Marie Curie University
+227.300000 _#_ Aarhus University
+225.251600 _#_ Syracuse University
+220.661600 _#_ Dalhousie University
+215.900000 _#_ University of Lausanne
+215.000000 _#_ University of Oslo
+214.700000 _#_ Université Catholique de Louvain
+209.700000 _#_ University of Vienna
+208.400000 _#_ Paris-Sud University
+198.911400 _#_ University of Duisburg-Essen
+195.800000 _#_ Yeshiva University
+193.993600 _#_ Shanghai Jiao Tong University
+190.301700 _#_ University of the Witwatersrand
+188.617000 _#_ University of Technology Sydney
+188.242900 _#_ Western University
+186.717500 _#_ University of Otago
+186.060800 _#_ University of Hawai’i at Mānoa
+185.224600 _#_ University of Texas at Dallas
+183.844300 _#_ University of Kiel
+181.586300 _#_ Wake Forest University
+181.351100 _#_ Technical University of Darmstadt
+180.072400 _#_ University of South Florida
+179.829900 _#_ Queensland University of Technology
+179.656600 _#_ Laval University
+179.195400 _#_ University of Cincinnati
+177.799500 _#_ Simon Fraser University
+175.429000 _#_ National University of Ireland, Galway
+175.187300 _#_ University of Newcastle
+175.098600 _#_ Indian Institute of Science

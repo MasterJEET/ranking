@@ -1,0 +1,193 @@
+1138.500000 _#_ Massachusetts Institute of Technology (MIT)
+1127.900000 _#_ Stanford University
+1117.800000 _#_ Harvard University
+1109.500000 _#_ University of Oxford
+1104.600000 _#_ University of Cambridge
+1098.000000 _#_ University of California, Berkeley (UCB)
+1068.000000 _#_ Carnegie Mellon University
+1059.600000 _#_ Princeton University
+1054.600000 _#_ ETH Zurich - Swiss Federal Institute of Technology
+1036.500000 _#_ National University of Singapore (NUS)
+1025.300000 _#_ University of California, Los Angeles (UCLA)
+1023.000000 _#_ Imperial College London
+1009.100000 _#_ University of Toronto
+990.700000 _#_ The University of Tokyo
+989.800000 _#_ The Hong Kong University of Science and Technology
+987.000000 _#_ California Institute of Technology (Caltech)
+986.705900 _#_ The University of Melbourne
+985.900000 _#_ The University of Hong Kong
+983.740200 _#_ The University of Edinburgh
+975.700000 _#_ New York University (NYU)
+975.400000 _#_ Ecole Polytechnique Fédérale de Lausanne (EPFL)
+975.300000 _#_ The Chinese University of Hong Kong (CUHK)
+972.500000 _#_ University of Texas at Austin
+972.500000 _#_ The Australian National University
+972.000000 _#_ Nanyang Technological University, Singapore (NTU)
+971.700000 _#_ University of Waterloo
+970.600000 _#_ Columbia University
+966.100000 _#_ University of British Columbia
+965.700000 _#_ Yale University
+965.100000 _#_ Georgia Institute of Technology
+963.200000 _#_ Peking University
+962.300000 _#_ Cornell University
+961.735600 _#_ Tsinghua University
+954.270800 _#_ University of Chicago
+952.758900 _#_ University of Illinois at Urbana-Champaign
+950.891300 _#_ UCL (University College London)
+948.852200 _#_ University of Washington
+939.122500 _#_ Technical University of Munich
+938.579900 _#_ The University of New South Wales (UNSW Sydney)
+938.100000 _#_ The University of Sydney
+937.731200 _#_ KAIST - Korea Advanced Institute of Science &amp; Technology
+937.723300 _#_ University of Pennsylvania
+932.392200 _#_ University of Michigan
+930.834700 _#_ Seoul National University
+928.190800 _#_ University of California, San Diego (UCSD)
+915.357000 _#_ The University of Manchester
+912.486200 _#_ National Taiwan University (NTU)
+911.948800 _#_ Politecnico di Milano
+911.787400 _#_ City University of Hong Kong
+909.603500 _#_ The University of Auckland
+908.573600 _#_ Kyoto University
+901.341300 _#_ Shanghai Jiao Tong University
+900.680500 _#_ The University of Queensland
+900.433400 _#_ Technische Universität Berlin (TU Berlin)
+898.589900 _#_ McGill University
+896.615400 _#_ Ecole normale supérieure, Paris
+894.306200 _#_ University of Amsterdam
+891.377100 _#_ KU Leuven
+889.641400 _#_ Fudan University
+888.439000 _#_ Lomonosov Moscow State University
+883.020400 _#_ KTH Royal Institute of Technology
+882.960200 _#_ University of Wisconsin-Madison
+881.354000 _#_ Technion - Israel Institute of Technology
+880.025400 _#_ The Hong Kong Polytechnic University
+879.656000 _#_ Ludwig-Maximilians-Universität München
+878.856400 _#_ University of Maryland, College Park
+878.696000 _#_ RWTH Aachen University
+877.336000 _#_ Brown University
+877.176800 _#_ KIT, Karlsruhe Institute of Technology
+876.657600 _#_ Ecole Polytechnique
+876.565100 _#_ Monash University
+872.222300 _#_ Universidade de São Paulo
+871.154700 _#_ King's College London
+871.101600 _#_ Delft University of Technology
+868.244000 _#_ The University of Warwick
+867.468700 _#_ Universidade Estadual de Campinas (Unicamp)
+867.174600 _#_ Purdue University
+867.166600 _#_ Duke University
+864.320500 _#_ Vienna University of Technology
+861.688200 _#_ Indian Institute of Technology Bombay (IITB)
+859.111300 _#_ Humboldt-Universität zu Berlin
+858.021000 _#_ Tokyo Institute of Technology
+857.616700 _#_ Sapienza University of Rome
+857.568200 _#_ University of California, Irvine
+852.271500 _#_ University of Glasgow
+851.899100 _#_ Pohang University of Science And Technology (POSTECH)
+850.900400 _#_ University of Southern California
+848.002700 _#_ National Tsing Hua University
+846.462100 _#_ Universitat Politècnica de Catalunya
+844.602100 _#_ Alma Mater Studiorum - University of Bologna
+843.748600 _#_ Pennsylvania State University
+841.390300 _#_ Boston University
+839.708300 _#_ Universidad Nacional Autónoma de México (UNAM)
+839.671400 _#_ University of Pisa
+838.888400 _#_ Johns Hopkins University
+838.526300 _#_ University of Bristol
+838.169700 _#_ Technische Universität Darmstadt
+837.256300 _#_ Osaka University
+833.880300 _#_ Politecnico di Torino
+833.741600 _#_ University of Southampton
+832.830800 _#_ Université de Montréal
+832.750200 _#_ University of Alberta
+830.788700 _#_ Sungkyunkwan University (SKKU)
+829.226500 _#_ University of Science and Technology of China
+829.077000 _#_ Eindhoven University of Technology
+824.930000 _#_ University of Zurich
+820.826300 _#_ Université catholique de Louvain (UCL)
+820.259600 _#_ Universidad de Chile
+817.443200 _#_ Ruprecht-Karls-Universität Heidelberg
+816.781300 _#_ Simon Fraser University
+813.492700 _#_ Utrecht University
+812.847900 _#_ University of Helsinki
+811.900900 _#_ University of California, Davis
+810.015700 _#_ Texas A&amp;M University
+805.744300 _#_ Indian Institute of Technology Madras (IITM)
+805.435800 _#_ Indian Institute of Technology Kanpur (IITK)
+802.529500 _#_ Uppsala University
+800.685400 _#_ Chalmers University of Technology
+797.793000 _#_ Universitat de Barcelona
+792.956500 _#_ Indian Institute of Technology Delhi (IITD)
+792.703200 _#_ Universität Stuttgart
+790.537500 _#_ Pontificia Universidad Católica de Chile (UC)
+788.159200 _#_ Tohoku University
+779.493100 _#_ Zhejiang University
+778.065600 _#_ London School of Economics and Political Science (LSE)
+768.240900 _#_ Korea University
+753.873600 _#_ Queensland University of Technology (QUT)
+753.001600 _#_ The University of Adelaide
+751.947500 _#_ Aarhus University
+743.884500 _#_ University of Birmingham
+741.984300 _#_ National Chiao Tung University
+741.280300 _#_ National Cheng Kung University (NCKU)
+734.570500 _#_ Waseda University
+733.797400 _#_ University College Dublin
+730.302800 _#_ Nanjing University
+725.694900 _#_ University of Oslo
+721.061900 _#_ Aalto University
+720.330400 _#_ University of Milan
+711.773500 _#_ Northwestern University
+696.487900 _#_ Yonsei University
+696.338000 _#_ University of Copenhagen
+695.891900 _#_ Universiti Sains Malaysia (USM)
+694.351900 _#_ University of North Carolina, Chapel Hill
+691.898700 _#_ Université Pierre et Marie Curie (UPMC)
+691.464800 _#_ University of Minnesota
+690.866400 _#_ Tel Aviv University
+688.358200 _#_ The Ohio State University
+683.598800 _#_ The Hebrew University of Jerusalem
+673.004000 _#_ University of Vienna
+668.963100 _#_ The University of Nottingham
+666.246500 _#_ University of California, Santa Barbara (UCSB)
+665.161800 _#_ Rice University
+663.458000 _#_ North Carolina State University
+663.085800 _#_ Michigan State University
+662.900400 _#_ Lund University
+662.488000 _#_ Norwegian University of Science And Technology
+649.901000 _#_ Kyushu University
+632.712500 _#_ Universiti Malaya (UM)
+628.420700 _#_ University of Technology Sydney
+616.954800 _#_ Indiana University Bloomington
+595.002900 _#_ Indian Institute of Technology Kharagpur (IIT-KGP)
+594.556600 _#_ National Technical University of Athens
+583.743900 _#_ King Fahd University of Petroleum &amp; Minerals
+582.212400 _#_ Rheinische Friedrich-Wilhelms-Universität Bonn
+580.370800 _#_ Universidade Federal do Rio de Janeiro
+577.411100 _#_ Technische Universität Dresden
+564.367200 _#_ RMIT University
+559.897800 _#_ University of Massachusetts Amherst
+556.248400 _#_ Vrije Universiteit Amsterdam
+544.296600 _#_ Lancaster University
+542.400000 _#_ National Taiwan University of Science and Technology (Taiwan Tech)
+540.927400 _#_ Universität des Saarlandes
+537.205600 _#_ University of York
+536.430800 _#_ Freie Universitaet Berlin
+535.589700 _#_ Technical University of Denmark
+534.543700 _#_ University Complutense Madrid
+527.721600 _#_ Instituto Politécnico Nacional (IPN)
+524.447000 _#_ Universiti Teknologi Malaysia
+523.753500 _#_ Weizmann Institute of Science
+522.376800 _#_ Universidade Federal de Minas Gerais
+517.277200 _#_ University of Otago
+516.981200 _#_ Universiti Putra Malaysia (UPM)
+515.784000 _#_ Universidad Carlos III de Madrid (UC3M)
+512.345600 _#_ University of Canterbury
+509.112600 _#_ Keio University CEMS MIM
+482.334500 _#_ Trinity College Dublin, The University of Dublin
+473.755100 _#_ University of Illinois, Chicago (UIC)
+454.575800 _#_ Queen Mary University of London
+445.930400 _#_ Czech Technical University in Prague
+410.195500 _#_ Saint Petersburg State University
+409.164600 _#_ University of Geneva
+402.629200 _#_ Arizona State University
+401.502000 _#_ Indian Institute of Science (IISc) Bangalore
